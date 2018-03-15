@@ -43,7 +43,7 @@ public class ScoresAdapter extends BaseAdapter {
     private ArrayList<Score> scores;
 
     /**
-     * Page en cours
+     * Page en cours.
      */
     private Activity context;
 
